@@ -1,6 +1,7 @@
 # Intro to React Sprint Challenge
 
 initial
+second commit
 
 **Read these instructions carefully. Understand exactly what is expected _before_ starting this Sprint Challenge.**
 
@@ -31,12 +32,16 @@ Commit your code regularly and meaningfully. This helps both you (in case you ev
 Be prepared to demonstrate your understanding of this week's concepts by answering questions on the following topics. You might prepare by writing down your own answers before hand.
 
 1. What is React JS and what problems does it solve? Support your answer with concepts introduced in class and from your personal research on the web.
+   React is an open source UI library and is component based. React allows developers to create large applications that change data without reloading the webpage.
 
-1. Describe component state.
+2. Describe component state.
+   State determines how component renders and behaves. State makes components dynamic and interactive.
 
-1. Describe props.
+3. Describe props.
+   Props let us pass data through the component
 
-1. What are side effects, and how do you sync effects in a React component to changes of certain state or props?
+4. What are side effects, and how do you sync effects in a React component to changes of certain state or props?
+   A side effect is anything that affects something outside the scope of the function being executed. We can manage these side effects with one of reacts tools called the 'effect hook'. It tells us that a component needs to execute a side effect.
 
 You are expected to be able to answer questions in these areas. Your responses contribute to your Sprint Challenge grade.
 
